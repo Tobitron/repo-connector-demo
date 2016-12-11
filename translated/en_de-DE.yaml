@@ -1,0 +1,23 @@
+---
+string1: "YAML Zeichenfolge1"
+string2: "YAML Zeichenfolge2"
+20160329Astring1: "Zweig 20160329A Zeichenfolge1"
+20160329Bstring1: "Zweig 20160329B Zeichenfolge1"
+20160329Cstring1: "Zweig 20160329C Zeichenfolge1"
+# comment
+20160627string1: "Zweig 20160329A Zeichenfolge1"
+20160908string1: "20160908 Zeichenfolge1 für die Github Demo meistern"
+# check "locales" usage
+20161103string1: "Zweig 20160329A Zeichenfolge1"
+# check SSHKey config
+20161110string1: "Zweig 20160329A Zeichenfolge1"
+20161110string2: "Zweig 20160329A Zeichenfolge2"
+# repo conn 1.5.4 check
+20161114string1: "Master 20161114string1"
+#setup callback
+20161114string2: "Master 20161114string2"
+20161114string3: "Master 20161114string3"
+20161114string4: "Zweig 20160329A Zeichenfolge1"
+20161114string5: "Master 20161114string5"
+20161114string6: "Master 20161114string6"
+20161114string7: "Master 20161114string7"
