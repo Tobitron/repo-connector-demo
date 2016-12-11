@@ -1,1 +1,2 @@
-string1: "new yaml2 string"
+---
+string1: "neue yaml2 Zeichenfolge"
